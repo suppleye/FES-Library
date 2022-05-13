@@ -166,3 +166,8 @@ HIGHLIGHTS
     font-size: 32px;
     margin-bottom: 24px;
 }
+
+.highlight__subtitle{
+    font-size: 20px;
+    margin-bottom: 16px;
+}
