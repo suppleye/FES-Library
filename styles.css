@@ -150,3 +150,19 @@ HIGHLIGHTS
     justify-content: center;
     flex-direction: column;
 }
+
+.highlight__para{
+    text-align: center;
+}
+
+.highlight__img{
+    border: 2px solid #7342d6;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 4px;
+    font-size: 32px;
+    margin-bottom: 24px;
+}
