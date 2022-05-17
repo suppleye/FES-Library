@@ -212,7 +212,7 @@ HIGHLIGHTS
     margin-bottom: 16px;
 }
 
-/* Features */
+/* Featured */
 
 #features{
     padding-top: 8vw;
@@ -221,6 +221,7 @@ HIGHLIGHTS
 
 .books{
     display: flex;
+    flex-wrap: wrap;
 }
 
 .book{
@@ -265,3 +266,6 @@ HIGHLIGHTS
     padding-right: 6px;
     color: #bfbfbf;
 }
+
+/* Recent */
+
