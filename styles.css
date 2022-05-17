@@ -263,4 +263,5 @@ HIGHLIGHTS
 .book__price--normal{
     text-decoration: line-through;
     padding-right: 6px;
+    color: #bfbfbf;
 }
